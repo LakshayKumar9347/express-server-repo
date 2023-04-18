@@ -26,7 +26,7 @@ app.set('view engine', 'ejs')
 //         title: "Express | ABOUT"
 //     })
 // })
-
+console.log("Just checking How Commint or file UPdation work on Github dont worry its just for test purpose")
 //This is called Static Middleware  ↓
 // because it  will handle request and response on the behalf of us hence static is a middleware
 // static midlle ware is used to server static file
